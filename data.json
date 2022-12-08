@@ -1,0 +1,36 @@
+{
+    "pages": 1,
+    "threads": [{
+
+        "id": 1,
+        "now": "12-8-2022",
+        "sub": "This is awesome",
+        "com": "This is so cool"
+    },{
+        "id": 2,
+        "now": "12-8-2022",
+        "sub": "Where im I",
+        "com": "I am lost"
+    },{
+        "id": 3,
+        "now": "12-8-2022",
+        "sub": "Where is the wok?",
+        "com": "Some say it's in poland but I disagree"
+    },{
+        "id": 4,
+        "now": "12-8-2022",
+        "sub": "The president of yodieland",
+        "com": "aint no way this mf is the president of yodieland"
+    },{
+        "id": 5,
+        "now": "12-8-2022",
+        "sub": "Hello fellow zoomers",
+        "com": "I am also a fellow zoomer myself"
+    },{
+        "id": 6,
+        "now": "12-8-2022",
+        "sub": "ahrbgahuebgfhdsg",
+        "com": "fashudfbahuig"
+    }]
+
+}
